@@ -5,7 +5,6 @@ Please note that this protocol is very slow, so it takes a while to connect to t
 # Release.
 The release of the program can be found here:
 https://github.com/purl5/release/archive/refs/heads/main.zip
-
 ## Setting up.
 
 Download the release (linked above.), and open up your file explorer.
